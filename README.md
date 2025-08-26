@@ -18,3 +18,22 @@
 - Highest and lowest paid employees.
 - Relationship between **BasePay, OvertimePay, Benefits** and **TotalPay**.
 - Random Forest achieved very high performance with **R² ≈ 0.998**.
+  ---
+
+## 📈 Results
+- **Linear Regression**: R² ≈ 0.993
+- **Random Forest Regressor**: R² ≈ 0.998
+- Random Forest performed slightly better with lower error metrics.
+
+---
+
+## 🚀 Future Improvements
+- Hyperparameter tuning for Random Forest.
+- Try Gradient Boosting and XGBoost models.
+- Deploy the model as a web app (e.g., Streamlit/Flask).
+
+---
+
+## 📝 Author
+Developed by [Youssef Mahmoud]
+Connect with me on [LinkedIn](www.linkedin.com/in/engineer-youssef-mahmoud-63b243361)
